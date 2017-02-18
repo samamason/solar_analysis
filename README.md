@@ -1,4 +1,6 @@
-===============   Solar Analysis Overview   ===============
+# Solar Analysis Overview
+
+===========================================================
 
 This software provides tools to analyze the correlation between
 a collection of properties related to a typical solar installation.
@@ -13,7 +15,7 @@ poor solar conditions.
 In order to gain a better understanding of how solar is affected
 by weather, we will need to collect the following information:
 
-Site Information:
+# Site Information:
   + GPS Location / Address
   + Altitude
 
@@ -27,7 +29,7 @@ Site Information:
       - Deciduous / Coniferous
       (What other information about the shade object can be collected here?)
 
-Solar Install Information:
+# Solar Install Information:
   + Module Manufacturer
   + Module Wattage
 
